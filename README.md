@@ -35,7 +35,7 @@
   <br>
 <h4>
   
-  [📄 오픈소스소프트웨어 보고서 바로가기📄](https://github.com/dm-group-3/oss/blob/main/README.md)
+  [📄 오픈소스소프트웨어 보고서 바로가기 📄](https://github.com/dm-group-3/oss/blob/main/README.md)
 
   ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
