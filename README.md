@@ -29,7 +29,8 @@
   <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-skyblue?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/VScode-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Markdown-grey?style=flat-square&logo=markdown&logoColor=white"/></a>&nbsp </h4>
+  <img src="https://img.shields.io/badge/Markdown-grey?style=flat-square&logo=markdown&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-navy?style=flat-square&logo=MySQl&logoColor=white"/></a>&nbsp </h4>
    
   <br>
   <br>
